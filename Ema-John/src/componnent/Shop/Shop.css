@@ -1,0 +1,13 @@
+.shop-container{
+  margin-left: 12px;
+
+}
+.product-container{
+ 
+    margin-right: 4px;
+    border-right: 1px solid lightgray;
+}
+.row {
+    max-width: 100%;
+    overflow-x: hidden;
+}

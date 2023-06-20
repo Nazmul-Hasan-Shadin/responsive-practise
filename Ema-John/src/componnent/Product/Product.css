@@ -1,0 +1,15 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.product-name{
+    color: blue;
+    font-weight: 480;
+}
+.col-sm-12 p {
+    word-break: break-all;
+  }
+  
